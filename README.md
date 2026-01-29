@@ -1,16 +1,32 @@
-## Hi there 👋
+# Bioinformatics Notes
 
-<!--
-**bioinformatics-notes/bioinformatics-notes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains structured notes, explanations and small examples related to bioinformatics and computational biology.
 
-Here are some ideas to get you started:
+It is intended as a learning and reference space documenting my progression from a wet-lab and clinical biochemistry background into computational analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+
+I am a clinical biochemist with experience in hospital laboratory workflows, quality control and data interpretation, currently completing an MSc in Personalised Medicine.
+
+My interest lies in applying computational methods to biologically and clinically meaningful questions.
+
+## Scope of this repository
+
+Topics may include:
+- Core bioinformatics concepts
+- Data types used in biology and medicine
+- R and Python notes for biological data analysis
+- Explanations of methods in my own words
+- Small worked examples using public or simulated data
+
+This repository focuses on understanding and interpretation rather than optimised or production-level code.
+
+## Structure (will evolve)
+
+- `notes/` – conceptual notes and explanations
+- `examples/` – small illustrative analyses
+- `resources/` – links, papers, and learning material
+
+## Disclaimer
+
+This is a learning repository. Content may change as my understanding develops.
